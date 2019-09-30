@@ -2,7 +2,7 @@
 // Author: Toyin Awosanya
 // Date: 9/20/2019
 // Version: 1.0
-// Purpose: Create a Proof of Concept to a portion of the features for the hospital app
+// Purpose: Create a Proof of Concept to a portion of the features for the hospita
 
 
 
@@ -35,7 +35,7 @@ public class main {
         System.out.println("Enter the amount you owe");
         String aowed = input.nextLine();
 
-        System.out.println("Enter the amount you payed");
+        System.out.println("Enter the amount you paid");
         String payamt = input.nextLine();
 
         System.out.println("Enter the payment date");
